@@ -1,0 +1,82 @@
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\bin\Debug\Data\login.json
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\bin\Debug\NetWPFAreas.exe.config
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\bin\Debug\NetWPFAreas.exe
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\bin\Debug\NetWPFAreas.pdb
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\bin\Debug\Newtonsoft.Json.dll
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\bin\Debug\Newtonsoft.Json.xml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreasApp.csproj.AssemblyReference.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Customized\MessageBoxCustom.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Views\AdminWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Views\AnalystWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Views\LoginWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Customized\MessageBoxCustom.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\MainWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Views\AdminWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Views\AnalystWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\Views\LoginWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\App.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreas_MarkupCompile.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreas_MarkupCompile.lref
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\MainWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreas.g.resources
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreas.Properties.Resources.resources
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreasApp.csproj.GenerateResource.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreasApp.csproj.CoreCompileInputs.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAr.9B6EA242.Up2Date
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreas.exe
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreas\obj\Debug\NetWPFAreas.pdb
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\bin\Debug\Data\login.json
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\bin\Debug\NetWPFAreas.exe.config
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\bin\Debug\NetWPFAreas.exe
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\bin\Debug\NetWPFAreas.pdb
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\bin\Debug\Newtonsoft.Json.dll
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\bin\Debug\Newtonsoft.Json.xml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreasApp.csproj.AssemblyReference.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Customized\MessageBoxCustom.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Views\AdminWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Views\AnalystWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Views\LoginWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Customized\MessageBoxCustom.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\MainWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Views\AdminWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Views\AnalystWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\Views\LoginWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\App.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreas_MarkupCompile.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreas_MarkupCompile.lref
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\MainWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreas.g.resources
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreas.Properties.Resources.resources
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreasApp.csproj.GenerateResource.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreasApp.csproj.CoreCompileInputs.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAr.9B6EA242.Up2Date
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreas.exe
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreasApp - Json - Full_Implementation\NetWPFAreasApp\obj\Debug\NetWPFAreas.pdb
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\NetWPFAreas.exe.config
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\NetWPFAreas.exe
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\NetWPFAreas.pdb
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\EntityFramework.dll
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\EntityFramework.xml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreasApp.csproj.AssemblyReference.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Customized\MessageBoxCustom.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Views\AdminWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Views\AnalystWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Views\LoginWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Customized\MessageBoxCustom.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\MainWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Views\AdminWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Views\AnalystWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\Views\LoginWindow.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\App.g.cs
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreas_MarkupCompile.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreas_MarkupCompile.lref
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\MainWindow.baml
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreas.g.resources
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreas.Properties.Resources.resources
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreasApp.csproj.GenerateResource.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreasApp.csproj.CoreCompileInputs.cache
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAr.9B6EA242.Up2Date
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreas.exe
+D:\HV\Samtel\2_Prueba\Project\NetWPFAreas\NetWPFAreasApp\obj\Debug\NetWPFAreas.pdb

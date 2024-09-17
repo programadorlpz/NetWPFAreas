@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Window x:Class="NetWPFAreasApp.Views.AnalystWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Analyst"
+        WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Menú -->
+            <RowDefinition Height="*"/>
+            <!-- Contenido principal -->
+        </Grid.RowDefinitions>
+
+        <!-- Menú -->
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="Archivo">
+                <MenuItem Header="Cerrar sesión" Click="CerrarSesion_Click" />
+            </MenuItem>
+        </Menu>
+
+        <!-- Contenido principal -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <!-- Listado de áreas -->
+                <ColumnDefinition Width="3*"/>
+                <!-- Asignación de área -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Listado de áreas -->
+            <StackPanel Grid.Column="0" Margin="10">
+                <TextBlock Text="Áreas de la Empresa" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+                <ListBox x:Name="AreasListBox" DisplayMemberPath="Name" SelectionMode="Single"/>
+            </StackPanel>
+
+            <!-- Asignación de área -->
+            <StackPanel Grid.Column="1" Margin="10">
+                <TextBlock Text="Asignación de Área" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+                <Label Content="Usuario Actual:"/>
+                <TextBlock x:Name="CurrentUserTextBlock" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <Label Content="Área Asignada Actual:"/>
+                <TextBlock x:Name="CurrentAreaTextBlock" FontWeight="Bold" Margin="0,0,0,20"/>
+
+                <Button Content="Asignar Área Seleccionada" Width="200" Click="AssignAreaButton_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

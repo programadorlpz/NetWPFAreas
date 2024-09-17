@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Window x:Class="NetWPFAreasApp.Views.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin Panel"
+        WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Menú -->
+            <RowDefinition Height="*"/>
+            <!-- Contenido principal -->
+        </Grid.RowDefinitions>
+
+        <!-- Menú -->
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="Archivo">
+                <MenuItem Header="Cerrar sesión" Click="CerrarSesion_Click" />
+            </MenuItem>
+        </Menu>
+
+        <!-- Contenido principal -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <!-- Formulario de creación -->
+                <ColumnDefinition Width="3*"/>
+                <!-- Listado de usuarios -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Formulario de creación de usuarios -->
+            <StackPanel Grid.Column="0" Margin="10">
+                <TextBlock Text="Crear Nuevo Usuario" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <Label Content="Nombre de Usuario"/>
+                <TextBox x:Name="UsernameTextBox" Width="200"/>
+
+                <Label Content="Contraseña" Margin="0,10,0,0"/>
+                <PasswordBox x:Name="UserPasswordBox" Width="200"/>
+
+                <Label Content="Rol" Margin="0,10,0,0"/>
+                <ComboBox x:Name="RoleComboBox" Width="200">
+                    <ComboBoxItem Content="admin"/>
+                    <ComboBoxItem Content="user"/>
+                </ComboBox>
+
+                <Label Content="Correo Electrónico" Margin="0,10,0,0"/>
+                <TextBox x:Name="EmailTextBox" Width="200"/>
+
+                <Label Content="Número de Teléfono" Margin="0,10,0,0"/>
+                <TextBox x:Name="PhoneNumberTextBox" Width="200"/>
+
+                <Button Content="Crear Usuario" Width="150" Margin="0,20,0,0" Click="CreateUserButton_Click"/>
+            </StackPanel>
+
+            <!-- Listado de usuarios -->
+            <StackPanel Grid.Column="1" Margin="10">
+                <TextBlock Text="Últimos 10 Usuarios Creados" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+                <DataGrid x:Name="UsersDataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single" SelectionChanged="UsersDataGrid_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Usuario" Binding="{Binding Username}" Width="*"/>
+                        <DataGridTextColumn Header="Rol" Binding="{Binding Role}" Width="*"/>
+                        <DataGridTextColumn Header="Creado En" Binding="{Binding CreatedAt}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <!-- Formulario para editar detalles de contacto -->
+                <TextBlock Text="Editar Datos de Contacto" FontSize="16" FontWeight="Bold" Margin="0,20,0,10"/>
+
+                <Label Content="Correo Electrónico"/>
+                <TextBox x:Name="EditEmailTextBox" Width="200"/>
+
+                <Label Content="Número de Teléfono" Margin="0,10,0,0"/>
+                <TextBox x:Name="EditPhoneNumberTextBox" Width="200"/>
+
+                <Button x:Name="UpdateUserButton" Content="Guardar Cambios" Width="150" Margin="0,20,0,0" Click="UpdateUserButton_Click" IsEnabled="False"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
